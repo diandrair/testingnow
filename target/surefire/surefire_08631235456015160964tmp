@@ -1,0 +1,7 @@
+#surefire_0
+#Sat Mar 13 14:33:51 WIB 2021
+basedir=/Users/nostra/Downloads/fullstack-automation 2
+environment=prod
+user.dir=/Users/nostra/Downloads/fullstack-automation 2
+suiteXmlFile=apitests.xml
+localRepository=/Users/nostra/.m2/repository

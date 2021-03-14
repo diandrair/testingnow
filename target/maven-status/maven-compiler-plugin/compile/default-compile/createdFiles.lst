@@ -1,0 +1,8 @@
+com/jakartalabs/page_objects/LoginPage.class
+com/jakartalabs/fullstack_automation/APIEndpoints.class
+com/jakartalabs/utils/DataUtils.class
+com/jakartalabs/utils/BrowserActions.class
+com/jakartalabs/page_objects/LandingPage.class
+com/jakartalabs/fullstack_automation/JsonPaths.class
+com/jakartalabs/utils/APIActions.class
+com/jakartalabs/page_objects/HomePage.class

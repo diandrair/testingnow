@@ -1,0 +1,6 @@
+com/jakartalabs/fullstack_automation/WebTests.class
+com/jakartalabs/baseui/BaseTest.class
+com/jakartalabs/fullstack_automation/TestNGExamples.class
+com/jakartalabs/fullstack_automation/APITests.class
+com/jakartalabs/fullstack_automation/IDriverManager.class
+com/jakartalabs/baseapi/BaseAPITest.class
